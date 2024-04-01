@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Created-By: Nebabin Nikita
+Main-Class: info.kgeorgiy.ja.nebabin.implementor.Implementor
