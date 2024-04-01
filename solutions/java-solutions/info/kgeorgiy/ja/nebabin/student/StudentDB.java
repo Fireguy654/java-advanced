@@ -1,7 +1,5 @@
 package info.kgeorgiy.ja.nebabin.student;
 
-import info.kgeorgiy.java.advanced.student.*;
-
 import java.util.*;
 import java.util.function.BinaryOperator;
 import java.util.function.Function;
