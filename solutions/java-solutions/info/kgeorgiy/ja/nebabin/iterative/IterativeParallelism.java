@@ -1,7 +1,7 @@
 package info.kgeorgiy.ja.nebabin.iterative;
 
-import info.kgeorgiy.java.advanced.iterative.AdvancedIP;
-import info.kgeorgiy.java.advanced.mapper.ParallelMapper;
+import info.kgeorgiy.ja.nebabin.iterative.shared.AdvancedIP;
+import info.kgeorgiy.ja.nebabin.iterative.shared.ParallelMapper;
 
 import java.util.ArrayList;
 import java.util.Comparator;

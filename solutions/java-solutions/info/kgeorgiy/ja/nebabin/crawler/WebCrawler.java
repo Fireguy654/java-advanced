@@ -1,6 +1,6 @@
 package info.kgeorgiy.ja.nebabin.crawler;
 
-import info.kgeorgiy.java.advanced.crawler.*;
+import info.kgeorgiy.ja.nebabin.crawler.shared.*;
 
 import java.io.IOException;
 import java.net.MalformedURLException;

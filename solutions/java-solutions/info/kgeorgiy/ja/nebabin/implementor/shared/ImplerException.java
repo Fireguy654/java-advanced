@@ -1,4 +1,4 @@
-package info.kgeorgiy.ja.nebabin.implementor;
+package info.kgeorgiy.ja.nebabin.implementor.shared;
 
 /**
  * Thrown by {@link Impler} when an error occurred.

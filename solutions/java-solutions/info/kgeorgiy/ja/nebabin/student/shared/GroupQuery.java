@@ -1,4 +1,4 @@
-package info.kgeorgiy.ja.nebabin.student;
+package info.kgeorgiy.ja.nebabin.student.shared;
 
 import java.util.Collection;
 import java.util.List;

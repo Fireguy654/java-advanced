@@ -1,6 +1,6 @@
 package info.kgeorgiy.ja.nebabin.hello;
 
-import info.kgeorgiy.java.advanced.hello.HelloClient;
+import info.kgeorgiy.ja.nebabin.hello.shared.HelloClient;
 
 import java.io.IOException;
 import java.net.*;

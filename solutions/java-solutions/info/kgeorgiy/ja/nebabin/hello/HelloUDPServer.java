@@ -1,7 +1,7 @@
 package info.kgeorgiy.ja.nebabin.hello;
 
-import info.kgeorgiy.java.advanced.hello.HelloServer;
-import info.kgeorgiy.java.advanced.hello.NewHelloServer;
+import info.kgeorgiy.ja.nebabin.hello.shared.HelloServer;
+import info.kgeorgiy.ja.nebabin.hello.shared.NewHelloServer;
 
 import java.io.IOException;
 import java.net.DatagramPacket;

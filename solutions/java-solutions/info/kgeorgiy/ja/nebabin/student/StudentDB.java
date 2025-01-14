@@ -1,5 +1,10 @@
 package info.kgeorgiy.ja.nebabin.student;
 
+import info.kgeorgiy.ja.nebabin.student.shared.AdvancedQuery;
+import info.kgeorgiy.ja.nebabin.student.shared.Group;
+import info.kgeorgiy.ja.nebabin.student.shared.GroupName;
+import info.kgeorgiy.ja.nebabin.student.shared.Student;
+
 import java.util.*;
 import java.util.function.BinaryOperator;
 import java.util.function.Function;

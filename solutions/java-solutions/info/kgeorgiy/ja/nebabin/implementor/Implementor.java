@@ -1,8 +1,8 @@
 package info.kgeorgiy.ja.nebabin.implementor;
 
-import info.kgeorgiy.ja.nebabin.Impler;
-import info.kgeorgiy.ja.nebabin.ImplerException;
-import info.kgeorgiy.ja.nebabin.JarImpler;
+import info.kgeorgiy.ja.nebabin.implementor.shared.Impler;
+import info.kgeorgiy.ja.nebabin.implementor.shared.ImplerException;
+import info.kgeorgiy.ja.nebabin.implementor.shared.JarImpler;
 
 import javax.tools.JavaCompiler;
 import javax.tools.ToolProvider;
